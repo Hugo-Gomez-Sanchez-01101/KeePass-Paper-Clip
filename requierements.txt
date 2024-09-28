@@ -1,0 +1,4 @@
+pykeepass
+pyperclip
+keyboard
+pycryptodomex
